@@ -1,0 +1,19 @@
+
+function Body(props){
+
+return (
+	    <>
+		
+		<p> Web Site Body </p>
+		<p> Hello {props.Name}</p>
+	   
+	    </>
+	)
+	    
+	
+;
+}
+
+export default Body;
+
+
